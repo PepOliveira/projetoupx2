@@ -3,7 +3,7 @@
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
 ## Tópicos
-🔹 Descrição do projeto
+🔹 Descrição do projeto 
 
 🔹 Funcionalidades
 
@@ -20,8 +20,6 @@
 🔹 Linguagens, dependências e libs utilizadas
 
 🔹 Novas Recursos
-
-🔹 Linguagens, dependências e libs utilizadas
 
 🔹 Resolvendo problemas
 
