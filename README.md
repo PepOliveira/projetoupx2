@@ -67,7 +67,8 @@ Utilização de imagens e descrição do qeu foi testado.
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
 ## Linguagens, dependencias e libs utilizadas 📚
-Android Studio 
+![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 XML
 ...
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
