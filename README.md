@@ -1,27 +1,45 @@
-Titulo ou Arte do Projeto
-       
+## Titulo ou Arte do Projeto
+# Versão: 1.0 
+# Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
-Status do Projeto: ✔️ ⚠️ (concluido, em desenvolvimento, etc)
-
-Tópicos
+# Tópicos
 🔹 Descrição do projeto
 
 🔹 Funcionalidades
 
-🔹 Deploy da Aplicação
+🔹 Distribuição
 
 🔹 Pré-requisitos
 
 🔹 Como rodar a aplicação
 
+🔹 Testes realizados
+
+🔹 Banco de Dados
+
+🔹 Linguagens, dependências e libs utilizadas
+
+🔹 Novas Recursos
+
+🔹 Linguagens, dependências e libs utilizadas
+
+🔹 Resolvendo problemas
+
+🔹 Recursos inseridos 
+
+🔹 Desenvolvedores/Contribuintes
+
+🔹 Informações Extras
+
+
 ...
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
-Descrição do projeto
+# Descrição do projeto
 Descrição breve do projeto compondo um paragrafo ou dois.
 
-Funcionalidades
+# Funcionalidades ⚙️
 ✔️ Funcionalidade 1
 
 ✔️ Funcionalidade 2
@@ -30,60 +48,35 @@ Funcionalidades
 
 ✔️ Funcionalidade 4
 
-Layout ou Deploy da Aplicação 💨
-Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+# Distribuição
+Link para teste da versão disponibilizada.
 
+# Pré-requisitos ⚠️    
+Versão do Android; 
+SDK; 
+Aparelho utilizado para testes.
+- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+
+# Como rodar a aplicação 
+Explicação de como se deve utilizar o projeto.
+
+# Testes realizados
+Utilização de imagens e descrição do qeu foi testado.
+
+# Banco de Dados 🗂️
+Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+
+# Linguagens, dependencias e libs utilizadas 📚
+Android Studio 
+XML
 ...
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
-
-Pré-requisitos
-⚠️ Node
-
-...
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação
-
-Como rodar a aplicação ▶️
-No terminal, clone o projeto:
-
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
-...
-
-Coloque um passo a passo para rodar a sua aplicação. Dica: clone o próprio projeto e verfique se o passo a passo funciona
-
-Como rodar os testes
-Coloque um passo a passo para executar os testes
-
-$ npm test, rspec, etc 
-Casos de Uso
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de gifs aqui seria bem interessante.
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
-JSON 💾
-Usuários:
-name	email	password	token	avatar
-Lais Lima	laislima98@hotmail.com	lais123	true	https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU
-...
-
-Se quiser, coloque uma amostra do banco de dados
-
-Iniciando/Configurando banco de dados
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados
-
-Linguagens, dependencias e libs utilizadas 📚
-React
-React PDF
-...
-
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
-Resolvendo Problemas ❗
+# Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
-Tarefas em aberto
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
+# Recursos de inseridos 🧰
+Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
 
 📝 Tarefa 1
 
@@ -91,14 +84,10 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 📝 Tarefa 3
 
-Desenvolvedores/Contribuintes :octocat:
+# Desenvolvedores/Contribuintes:
 Liste o time responsável pelo desenvolvimento do projeto
 
-
-Diana Regina	
-Diana Regina	
-Diana Regina
-Licença
+# Licença
 The MIT License (MIT)
 
-Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ Ano - Titulo do Projeto
